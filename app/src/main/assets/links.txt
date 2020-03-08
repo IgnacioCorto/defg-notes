@@ -1,4 +1,3 @@
-
 Run plain Java project on Android Studio
 https://stackoverflow.com/a/26196451/733884
 
