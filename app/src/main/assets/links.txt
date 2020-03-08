@@ -1,0 +1,21 @@
+
+Run plain Java project on Android Studio
+https://stackoverflow.com/a/26196451/733884
+
+Lock Screen Orientation
+https://stackoverflow.com/a/1512263/733884
+
+class TextToSpeech
+https://developer.android.com/reference/android/speech/tts/TextToSpeech?hl=en#public-methods
+
+class AudioTrack
+https://developer.android.com/reference/android/media/AudioTrack#reloadStaticData()
+
+Inner class in java
+https://www.geeksforgeeks.org/inner-class-java/
+
+Frequencies for equal-tempered scale, A4 = 440 Hz
+https://pages.mtu.edu/~suits/notefreqs.html
+
+PARENT'S HALF WIDTH // android:layout_width="0dp" android:layout_weight="1"
+https://stackoverflow.com/questions/20000560/android-layout-width-half-of-parent
